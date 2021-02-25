@@ -1,2 +1,4 @@
 # konfir
-Auto Konfirmasi Permintaan Pertemanan Auto Hapus Permintaan Pertemanan
+# SCREENSHOT
+
+![Test Image 1](bot.jpg)
